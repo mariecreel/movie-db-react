@@ -1,6 +1,6 @@
 {
-  "short_name": "Movie Database",
-  "name": "Simple Movie Database",
+  "short_name": "Movie Search",
+  "name": "Movie Search",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
