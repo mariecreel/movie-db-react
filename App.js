@@ -1,10 +1,11 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React, { Component } from 'react';
 
-class Main extends React.Component {
+class App extends React.Component {
   render(){
     return (
       <h1>Hello, world!</h1>
     )
   }
 }
+
+export default App;
