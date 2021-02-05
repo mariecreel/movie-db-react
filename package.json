@@ -4,7 +4,6 @@
   "description": "simple movie search app build with React, JS, HTML/CSS, and TMDb API",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
