@@ -1,5 +1,5 @@
 {
-  "name": "my-webpack-project",
+  "name": "movie-db-site-react",
   "version": "1.0.0",
   "description": "My webpack project",
   "main": "index.js",
@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/ncreel/movie-db-react#readme",
   "dependencies": {
+    "@babel/preset-react": "^7.12.13",
     "babel-core": "^6.26.3",
     "babel-preset-env": "^1.7.0",
     "babel-preset-es2015": "^6.24.1",
