@@ -4,6 +4,8 @@
   "description": "simple movie search app build with React, JS, HTML/CSS, and TMDb API",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
   },
   "repository": {
     "type": "git",
