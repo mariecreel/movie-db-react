@@ -10,8 +10,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background-color: #10376E;
-  color: #BFCDE0;
+  background-color: #0d7074;
+  color: #daa520;
 }
 
 p {
@@ -54,16 +54,17 @@ input{
 }
 
 .button{
-  background-color: #00a;
+  background-color: #daa520;
   color: #fff;
   padding: 1rem 2rem;
-  border: 1px solid #00a;
+  border: 1px solid #daa520;
   border-radius: 20px;
   font-size: 1.4rem;
 }
 
 .button:hover{
-  background-color: #0000a5;
+  background-color: #977316;
+  border-color: #977316
 }
 
 @media(min-width:786px){

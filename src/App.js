@@ -1,10 +1,10 @@
 import './index.css';
-import SearchMovies from './SearchMovies.js'
+import SearchMovies from './searchMovies.js'
 
 function App() {
   return (
     <div className="container">
-      <h1 class="title">Movie Search</h1>
+      <h1 className="title">Movie Search</h1>
       <SearchMovies/>
     </div>
   );
