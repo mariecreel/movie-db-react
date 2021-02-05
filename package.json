@@ -1,11 +1,11 @@
 {
-  "name": "movie-db-site-react",
+  "name": "my-webpack-project",
   "version": "1.0.0",
-  "description": "simple movie search app build with React, JS, HTML/CSS, and TMDb API",
+  "description": "My webpack project",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --mode development --open --hot",
-    "build": "webpack --mode production"
+    "start": "webpack serve --mode development --env development",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -26,12 +26,21 @@
   "homepage": "https://github.com/ncreel/movie-db-react#readme",
   "dependencies": {
     "babel-core": "^6.26.3",
-    "babel-loader": "^8.2.2",
     "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
-    "html-webpack-plugin": "^5.0.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.13",
+    "@babel/preset-env": "^7.12.13",
+    "@webpack-cli/init": "^1.1.3",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-syntax-dynamic-import": "^6.18.0",
+    "css-loader": "^5.0.1",
+    "html-webpack-plugin": "^5.0.0",
+    "style-loader": "^2.0.0",
     "webpack": "^5.20.2",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2"
