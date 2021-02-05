@@ -1,0 +1,26 @@
+{
+  "name": "movie-db-site-react",
+  "version": "1.0.0",
+  "description": "simple movie search app build with React, JS, HTML/CSS, and TMDb API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncreel/movie-db-react.git"
+  },
+  "keywords": [
+    "react",
+    "javascript",
+    "tmdb",
+    "api",
+    "front-end"
+  ],
+  "author": "Marie Creel",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ncreel/movie-db-react/issues"
+  },
+  "homepage": "https://github.com/ncreel/movie-db-react#readme"
+}
