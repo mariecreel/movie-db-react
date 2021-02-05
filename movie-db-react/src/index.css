@@ -10,8 +10,8 @@ html {
 body {
   margin: 0;
   padding: 0;
-  background-color: #3b3355;
-  color: #bfcde0;
+  background-color: #10376E;
+  color: #BFCDE0;
 }
 
 p {
@@ -31,4 +31,5 @@ small {
 .title{
   font-size: 4.4rem;
   text-align:center;
+  font-family: 'Limelight', cursive;
 }
