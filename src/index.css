@@ -29,7 +29,7 @@ small {
 }
 
 .title{
-  font-size: 4.4rem;
+  font-size: 6.4rem;
   text-align:center;
   font-family: 'Limelight', cursive;
 }
@@ -60,6 +60,7 @@ input{
   border: 1px solid #daa520;
   border-radius: 20px;
   font-size: 1.4rem;
+  margin-bottom: 1rem;
 }
 
 .button:hover{
@@ -76,4 +77,27 @@ input{
   .input{
     margin-bottom: 0;
   }
+}
+
+.card-list{
+  margin-top: 4rem;
+}
+
+.card{
+  padding: 2rem 4rem;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px #2C302E;
+  background-color: #cedad9;
+  color: #2C302E;
+  margin-bottom: 2rem;
+}
+
+.card--title{
+  margin-bottom: 0.5rem;
+  font-size: 3.2rem;
+}
+
+.card--image{
+  margin: 0 auto;
+  display:block;
 }
