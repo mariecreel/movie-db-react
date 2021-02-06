@@ -16,5 +16,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Navigate to [cursed.co.in/movie-db-react](https://cursed.co.in/movie-db-react). You should see a searchbar. Once you're there, type the name of any movie and hit enter or press "Search." Then, you should see a list of movies that contain the keyword you searched for. 
 
 
-![Imgur](https://i.imgur.com/I1zDyzz.gifv)
+![a gif demonstration of how to use the website](https://media2.giphy.com/media/fTHAX0NFZ9whjUqlsm/giphy.gif)
 
