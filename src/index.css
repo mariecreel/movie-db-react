@@ -87,7 +87,8 @@ input{
   padding: 2rem 4rem;
   border-radius: 10px;
   box-shadow: 2px 2px 5px #0d4070;
-  background-color: #0f9999;
+  background-color: #dedede;
+  color: #0d4070;
   margin-bottom: 2rem;
 }
 
